@@ -4,7 +4,7 @@ todo List displaying CRUD for user
 
 <img src="https://github.com/i-anuragmishra/todo-flutter/blob/main/assets/Screenshot_1634491231.png" width="250">
 
-## Updating
+## addition and Updating
 
 <img src="https://github.com/i-anuragmishra/todo-flutter/blob/main/assets/Screenshot_1634491264.png" width="250">
 
