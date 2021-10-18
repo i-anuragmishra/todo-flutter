@@ -64,16 +64,4 @@ dependencies {
     implementation 'com.android.support:multidex:1.0.3'
 }
 
-// Add this line
-apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
-
-
-dependencies {
-  // Import the Firebase BoM
-  implementation platform('com.google.firebase:firebase-bom:28.4.2')
-
-
-  // Add the dependencies for the desired Firebase products
-  // https://firebase.google.com/docs/android/setup#available-libraries
-}
